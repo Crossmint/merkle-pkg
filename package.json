@@ -1,0 +1,12 @@
+{
+  "name": "merkle",
+  "version": "1.0.0",
+  "description": "Calculate a merkle root from array of eth addresses",
+  "main": "index.js",
+  "author": "Danny Mulvihill",
+  "license": "MIT",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32"
+  }
+}
